@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: schooltech
+    name: mathematics.mrsburke.website
     env: docker
     plan: free
