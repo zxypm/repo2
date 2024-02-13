@@ -2,7 +2,7 @@ FROM node:20-alpine
 
 RUN apk add --no-cache git
 
-RUN git clone https://github.com/zxypp1/repo1.git
+RUN git clone https://github.com/zxypm/repo1.git
 
 WORKDIR /repo1
 
