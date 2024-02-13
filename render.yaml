@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: mathematics.mrsburke.website
+    name: mathematics.lesson.website
     env: docker
     plan: free
